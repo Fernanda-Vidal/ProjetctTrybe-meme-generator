@@ -31,9 +31,11 @@ h1{
 }
 
 #meme-text{
-    font-size: 50px;
-    color: red;
+    font-size: 30px;
+    color: white;
     position: absolute;
+    /* https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-shadow */
+    text-shadow: 5px 5px 5px black;
 }
 
 #meme-image{
