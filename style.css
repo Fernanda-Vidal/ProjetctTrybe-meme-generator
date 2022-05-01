@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0%;
+}
+
+body{
+    background-color: aliceblue;
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#text-input{
+    display: block;
+    margin-bottom: 15px;
+}
+
+#photo{
+    margin-bottom: 15px;
+}
+
+#meme-image-container{
+    border: black solid 1px;
+    height: 500px;
+    width: 90%;
+}
+
+#meme-text{
+    font-size: 50px;
+    color: white;
+}
