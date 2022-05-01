@@ -4,7 +4,8 @@
 }
 
 body{
-    background-color: aliceblue;
+    background-color: #2b2d42;
+    color: #8d99ae;
     margin: 20px;
 }
 
@@ -18,16 +19,16 @@ h1{
     margin-bottom: 15px;
 }
 
-#photo{
+#meme-insert{
     margin-bottom: 15px;
 }
 
 #meme-image-container{
     border: black solid 1px;
     background-color: white;
-    /* background-size: cover; */
     height: 300px;
     width: 500px;
+    margin: 15px
 }
 
 #meme-text{
@@ -39,7 +40,29 @@ h1{
 }
 
 #meme-image{
-    /* max-height: 500px; */
     width: 100%;
     height: 100%;
+}
+
+#fire{
+    background-color: red;
+    width: 165px;
+    height: 25px;
+    color: white;
+}
+
+#water{
+    background-color: blue;
+    width: 165px;
+    height: 25px;
+    color: white;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#earth{
+    background-color: green;
+    width: 165px;
+    height: 25px;
+    color: white;
 }
