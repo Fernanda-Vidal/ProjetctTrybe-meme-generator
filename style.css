@@ -14,6 +14,10 @@ h1{
     margin-bottom: 20px;
 }
 
+h3{
+    margin: 10px;
+}
+
 #text-input{
     display: block;
     margin-bottom: 15px;
@@ -65,4 +69,8 @@ h1{
     width: 165px;
     height: 25px;
     color: white;
+}
+
+.meme{
+    margin-right: 10px;
 }
