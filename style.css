@@ -31,4 +31,10 @@ h1{
 #meme-text{
     font-size: 50px;
     color: white;
+    position: absolute;
+}
+
+#meme-image{
+    max-height: 500px;
+    max-width: 90%;;
 }
